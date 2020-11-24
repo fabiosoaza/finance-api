@@ -1,0 +1,12 @@
+external:
+  api:
+    b3/mp-rest/url: http://bvmf.bmfbovespa.com.br/cotacoes2000
+    b3/mp-rest/scope: javax.inject.Singleton
+
+    yahoo-finance/mp-rest/url: https://query2.finance.yahoo.com/v7/finance
+    yahoo-finance/mp-rest/scope: javax.inject.Singleton
+
+    mercado-bitcoin/mp-rest/url: https://www.mercadobitcoin.net/api
+    mercado-bitcoin/mp-rest/scope: javax.inject.Singleton
+
+
